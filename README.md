@@ -9,7 +9,11 @@ Each exercise is solved based on its core idea, focusing on the fundamental conc
 The solutions are correct, but they may not always be the most optimal approach.
 My goal is to demonstrate the intended logic behind each problem and how to apply it effectively.
 ## 🤝 Contribute & Connect
-If you find any mistakes, have suggestions for improvements, or need clarification, feel free to open an issue or reach out to me.
+For any questions, feedback, or collaboration opportunities, feel free to reach out:
+
+### Name: Ali Shokor
+### Email: [ali.personal.programmer@gmail.com]
+### GitHub: ali-shokor
 
 Happy coding! 🚀
 

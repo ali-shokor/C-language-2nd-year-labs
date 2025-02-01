@@ -16,7 +16,6 @@ For any questions, feedback, or collaboration opportunities, feel free to reach 
 ### GitHub: ali-shokor
 ### Insta: ali.shokorr
 
-Happy coding! 🚀
 
-Best regards,
+Happy coding! 🚀
 Ali Shokor

@@ -15,7 +15,7 @@ For any questions, feedback, or collaboration opportunities, feel free to reach 
 - **Email**: [ali.personal.programmer@gmail.com](mailto:ali.personal.programmer@gmail.com)  
 - **GitHub**: [ali-shokor](https://github.com/ali-shokor)
 - **LinkedIn**: [Ali Shokor](https://www.linkedin.com/in/ali-shokor-b961aa344/)  
-- **Instagram**: [@yourhandle](https://instagram.com/ali.shokorr)  
+- **Instagram**: [ali.shokorr](https://instagram.com/ali.shokorr)  
 
 
 Happy coding! 🚀

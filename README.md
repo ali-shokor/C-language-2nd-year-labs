@@ -11,10 +11,11 @@ My goal is to demonstrate the intended logic behind each problem and how to appl
 ## 🤝 Contribute & Connect
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
-### Name: Ali Shokor
-### Email: [ali.personal.programmer@gmail.com]
-### GitHub: ali-shokor
-### Insta: ali.shokorr
+- **Name**: Ali Shokor  
+- **Email**: [ali.personal.programmer@gmail.com](mailto:ali.personal.programmer@gmail.com)  
+- **GitHub**: [ali-shokor](https://github.com/ali-shokor)
+- **LinkedIn**: [Ali Shokor](https://www.linkedin.com/in/ali-shokor-b961aa344/)  
+- **Instagram**: [@yourhandle](https://instagram.com/ali.shokorr)  
 
 
 Happy coding! 🚀
